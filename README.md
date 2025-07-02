@@ -17,14 +17,16 @@ Welcome to my digital space! I'm a **Frontend Developer** who builds fast, respo
 
 ## 🌟 Featured Projects
 
-### 🎓 School Website
-A fully responsive school web app built with **React**, **Tailwind CSS**, and **Firebase**. It includes dynamic routing, smooth animations, and real-time database features for a complete modern school site experience.
 
-### 🏥 Hospital Website
-A clean, fast, and interactive hospital website using **HTML**, **Tailwind CSS**, and **JavaScript**. Designed to work on all devices and includes sections like services, contact, and appointment forms.
+### 🎓 [School Website](https://fullstack-school-website.vercel.app/)
+Built with **React**, **Tailwind CSS**, and **Firebase**. Includes dynamic routing, animation, and a real-time database.
 
-### 🌀 3D Website
-A creative 3D landing page built with **Three.js**, **HTML**, **Tailwind CSS**, and **JavaScript**. Users enjoy a dynamic 3D experience that’s both visually stunning and interactive.
+### 🏥 [Hospital Website](https://med-iota-neon.vercel.app/)
+HTML + Tailwind + JS – Clean, modern, and responsive design with interactive sections.
+
+### 🌀 [3D Website](https://3d-dev-eight.vercel.app/)
+Three.js-powered immersive 3D experience – stylish, animated, and fast.
+
 
 ---
 
@@ -44,4 +46,15 @@ A creative 3D landing page built with **Three.js**, **HTML**, **Tailwind CSS**, 
 ---
 
 > “Code is like art; every line tells a story.” — HalxDocs
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HalxDocs&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HalxDocs&theme=tokyo-night&hide_border=true" />
+</p>
 
