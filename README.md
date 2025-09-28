@@ -62,7 +62,7 @@ Immersive **Three.js** 3D experience – stylish, animated, and lightning-fast.
 [![LinkedIn](https://img.shields.io/badge/-Kamsy%20Ejindu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamsy-ejindu-633272344/)  
 📧 Email: kamsyejindu@gmail.com  
 📱 Phone: +234 7025368658  
-🌐 Instagram: [@halxdocs_](https://instagram.com/halxdocs_)
+🌐 Instagram: [@halxdocs__](https://instagram.com/halxdocs__)
 
 ---
 
