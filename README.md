@@ -1,69 +1,174 @@
-# 👋 Hey, I'm HalxDocs
+HalxDocs
 
-Welcome to my digital space! I'm a **Full Stack Developer** passionate about building fast, responsive, and visually stunning web applications using modern technologies like **React**, **Tailwind CSS**, **Firebase**, **Go**, **TypeScript**, **Flutter**, and **Three.js**.  
-I love creating seamless digital experiences and solving real-world problems through clean code and thoughtful design.
+Full-Stack Engineer · Product Builder · Systems Thinker
 
----
+I design and ship production-grade software that scales.
 
-## 🚀 My Favorite Tech Stack
+I’m a full-stack engineer focused on building reliable, high-performance products for companies, startups, and businesses. I work end-to-end — from system design and APIs to polished user interfaces and deployment — with a strong focus on clarity, maintainability, and long-term growth.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+I help teams build software that:
 
----
+ships fast without accumulating technical debt
 
-## 🌟 Featured Projects
+scales with users, data, and team size
 
-### 🎓 [School Website](https://fullstack-school-website.vercel.app/)
-Built with **React**, **Tailwind CSS**, and **Firebase**. Features dynamic routing, animations, and a real-time database.
+feels modern, clean, and intentional
 
-### 🏥 [Hospital Website](https://med-iota-neon.vercel.app/)
-Built with **HTML**, **Tailwind CSS**, and **JavaScript**. Modern, responsive design with interactive sections.
+🌐 Portfolio & Brand: https://halxdocs.com
 
-### 🌀 [3D Website](https://3d-dev-eight.vercel.app/)
-Immersive **Three.js** 3D experience – stylish, animated, and lightning-fast.
+What I Help You Build
 
----
+End-to-end product engineering (idea → production)
 
-## 📈 GitHub Stats
+Scalable backend systems & APIs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalxDocs&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HalxDocs&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+Modern, performant frontend applications
 
----
+Developer tools and internal platforms
 
-## 🏆 GitHub Trophies
+Long-term systems built for growth and iteration
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalxDocs&theme=onedark&no-frame=true&margin-w=15" />
-</p>
+I don’t just implement features — I design systems, make sound technical trade-offs, and build software that teams can confidently evolve over time.
 
----
+Core Technologies
+Frontend
 
-## 📊 GitHub Contribution Graph
+React & Remix
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HalxDocs&theme=tokyo-night&hide_border=true" />
-</p>
+TypeScript & modern JavaScript
 
----
+Tailwind CSS
 
-## 📫 Let's Connect
+Three.js (3D & immersive UI)
 
-[![LinkedIn](https://img.shields.io/badge/-Kamsy%20Ejindu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamsy-ejindu-633272344/)  
-📧 Email: kamsyejindu@gmail.com  
-📱 Phone: +234 7025368658  
-🌐 Instagram: [@halxdocs__](https://instagram.com/halxdocs__)
+Motion & interaction design
 
----
+Backend
 
-> “Code is like art; every line tells a story.” — HalxDocs
+Go (Gin)
+
+Node.js
+
+Express.js
+
+NestJS
+
+REST API design
+
+Authentication & authorization
+
+Cloud & Infrastructure
+
+Firebase (Auth, Firestore, Functions, Hosting)
+
+Serverless architecture
+
+API-first design
+
+Deployment (Vercel, Render)
+
+Mobile
+
+Flutter
+
+Selected Work
+JSONStack — Developer Tool
+
+A high-performance JSON formatter built for real-world scale.
+
+Handles 400k+ lines of JSON
+
+Optimized parsing & rendering
+
+Clean, mobile-friendly UI
+
+Tech: React, TypeScript, Tailwind CSS
+🔗 https://jsonstack.dev
+
+Cortex — AI-Powered Platform
+
+A cognitive analysis platform focused on intelligent text processing and extensibility.
+
+Tech: Remix, TypeScript, Tailwind CSS, Go
+🔗 https://corte-x.vercel.app/
+
+AIDevHelper — Open-Source Chrome Extension
+
+A developer productivity tool designed to live directly in the browser.
+
+Tech: JavaScript, Chrome APIs
+🔗 https://github.com/HalxDocs/Aidevhelper
+
+Email Verifier API
+
+A fast, lightweight email validation service built for integration into production systems.
+
+Tech: Go
+🔗 https://email-verifier-xqd2.onrender.com/
+
+Medical Platform
+
+A modern healthcare website with clean UI and responsive interaction.
+
+Tech: HTML, Tailwind CSS, JavaScript
+🔗 https://med-iota-neon.vercel.app/
+
+3D Interactive Web Experience
+
+An immersive, high-performance 3D website.
+
+Tech: React, Three.js
+🔗 https://3d-dev-eight.vercel.app/
+
+Open-Source & Long-Term Thinking
+
+I actively build and maintain open-source projects because:
+
+great software improves through collaboration
+
+public tools raise engineering standards
+
+long-term value beats short-term hacks
+
+My work emphasizes:
+
+maintainable architectures
+
+performance and clarity
+
+systems built to grow with teams and businesses
+
+The HalxDocs Brand
+
+HalxDocs is my engineering brand and public workspace — where I build, publish, and collaborate on:
+
+developer tools
+
+AI-assisted systems
+
+scalable product infrastructure
+
+open-source software
+
+🌐 https://halxdocs.com
+
+Availability & Contact
+
+I’m available for:
+
+Startup engineering
+
+Contract / consulting work
+
+Long-term product roles
+
+Open-source collaboration
+
+📧 Email: halxdocs@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kamsy-ejindu-633272344/
+
+🐦 X (Twitter): https://x.com/halxdocs
+
+📸 Instagram: https://instagram.com/halxdocs
+__
