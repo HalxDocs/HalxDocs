@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kamsy Ejindu
+# HalxDocs
 ### Product Engineer · Systems Builder · Full-Stack Infrastructure
 
 <p>I build scalable digital products that don't break when users show up.</p>
@@ -79,6 +79,7 @@ I help teams:
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **contextpack** | CLI tool that bundles any codebase into a single LLM-ready file. Stop copy-pasting files into Claude or ChatGPT. ![npm](https://img.shields.io/npm/v/@halxdocs/contextpack?style=flat-square&labelColor=000&color=1a1a1a) | [npm](https://www.npmjs.com/package/@halxdocs/contextpack) · [github](https://github.com/HalxDocs/contextpack) |
 | **JSONStack** | High-performance JSON processing tool. Handles 400k+ lines with optimized parsing & rendering. | [jsonstack.dev](https://jsonstack.dev) |
 | **Cortex** | Extensible AI-powered analysis platform for structured processing and intelligent workflows. | [corte-x.vercel.app](https://corte-x.vercel.app) |
 | **AIDevHelper** | Browser-based developer Chrome extension that improves workflow speed without context switching. | [github](https://github.com/HalxDocs/Aidevhelper) |
