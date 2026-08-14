@@ -66,7 +66,7 @@ I care most about the unglamorous parts that keep systems alive: **idempotency, 
 **Tooling**
 
 [![Wails](https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white)](https://wails.io)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+[![reqit](https://img.shields.io/badge/reqit-9A54FF?style=for-the-badge)](https://reqit.dev)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
