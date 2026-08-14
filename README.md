@@ -1,80 +1,58 @@
-```
-                          |:
-                         |::|
-                        |::::|
-                       |::::::|
-                      |::::::::|
-                     |::::::::::|
-                    |:HALXDOCS:|
-                     |::::::::::|
-                      |::::::::|
-                       |::::::|
-                        |::::|
-                         |::|
-                          |:
-```
+# Hi, I'm Kamsy Ejindu 👋
 
-```
-                    ________        ________
-                   / ______ \      / ______ \
-                  / /      \_\    /_/      \ \
-                 / /                      _  \ \
-                | |        ________       | | | |
-                | |       |  ______|      | | | |
-                | |       | |_______      | | | |
-                | |       |_________|     | | | |
-                | |                      _| | |_|
-                | |      _____          |_____|
-                | |\____/     \____/
-                |_|                  |_|
-```
+**Backend Engineer — Systems & Infrastructure** · Lagos, Nigeria
 
-```text
-                 __________________________________
-                /  I break things so I can fix them \
-               |   then I break them again because    |
-                \  it's fun                           /
-                 ----------------------------------
-                        \   ^__^
-                         \  (**)\_______
-                            (__)\       )\/\
-                             U  ||----w |
-                                ||     ||
-```
+I build the infrastructure other engineers depend on: API layers, message-processing systems, and developer tooling designed to hold up under real production traffic. Four shipped production systems across fintech, e-commerce, and developer tooling, plus a growing set of open-source infrastructure tools with real users.
 
-[![stalkers](https://komarev.com/ghpvc/?username=HalxDocs&color=000000&style=flat-square&label=stalkers)](https://github.com/HalxDocs)
+I care most about the unglamorous parts that keep systems alive: **idempotency, safe retries, rate limiting, observability, and graceful failure under load**.
 
-[![stats](https://github-readme-stats.vercel.app/api?username=HalxDocs&show_icons=true&hide_title=true&count_private=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=222222&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🌐 [halxdocs.com](https://halxdocs.com) · 💼 [LinkedIn](https://www.linkedin.com/in/halx-docs-633272344) · 🐦 [@HalxDocs](https://x.com/HalxDocs) · 📧 halxdocs@gmail.com
 
-```
-                _______________________________
-               |                               |
-               |   "works on my machine"        |
-               |   - every developer ever       |
-               |_______________________________|
-```
+---
 
-```
-                ,-""-.
-               / ____ \
-              / /    \ \
-             / /      \ \
-            / /        \ \
-           ( (          ) )
-            \ \        / /
-             \ \      / /
-              \ \    / /
-               \ \  / /
-                \ \/ /
-                 \__/
+## 🛠️ Open-source infrastructure tools
 
-            compiling... please wait
-```
+| Tool | What it does | Stack |
+| --- | --- | --- |
+| [DLQ Inspector](https://github.com/HalxDocs/dlq_inspector) | Inspect, classify, and safely recover failed messages from dead-letter queues. Dry-run by default, explicit confirm, full audit trail. | Go, RabbitMQ, Redis Streams |
+| [reqit](https://reqit.dev) | Local-first desktop API client — an open-source Postman alternative. No account, zero telemetry, plain JSON collections. | Go, Wails v2, React, TypeScript |
+| [jsonstack](https://jsonstack.dev) | Browser-based JSON viewer that handles large files other formatters choke on. | React, TypeScript |
+| [contextpack](https://www.npmjs.com/package/@halxdocs/contextpack) | Bundles a codebase into a single LLM-ready markdown/JSON file. | TypeScript CLI, npm |
+| [lazydb](https://github.com/HalxDocs/lazydb) | Keyboard-driven terminal UI database client — lazygit, but for SQL. | Go, bubbletea, lipgloss |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=000000&height=60&section=header"/>
-  <br/>
-  <code>print("hello world")  # still counts as shipping</code>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=000000&height=60&section=footer"/>
-</p>
+## 🚀 Shipped products
+
+- **Myshoplet** — commerce platform that replaces WhatsApp/Instagram DM selling for African vendors. Co-founder & CTO. 50+ vendor accounts, 40+ orders in the first month.
+- **274Lab** — structured 26-week JAMB/UTME practice platform with real scoring, weak-topic detection, and parent reports.
+- **Norah's Beauty Hub** — full-stack Nigerian e-commerce platform, live at launch with ~200 SKUs.
+
+---
+
+## 💻 Skills
+
+**Backend & Systems** — Go (goroutines, channels, context propagation, adapter patterns) · NestJS · Node.js · Express · TypeScript
+
+**Infra & Reliability** — idempotency & safe retries · rate limiting · circuit breakers · observability · Docker · GitHub Actions (CI/CD)
+
+**Frontend** — React · Remix · Next.js · Vite · Tailwind CSS
+
+**Databases** — PostgreSQL · MySQL · MongoDB · Firebase Firestore
+
+**Tooling** — Wails v2 · bubbletea · lipgloss · Postman · Git · Vercel · Render · Firebase
+
+---
+
+## 📊 GitHub stats
+
+![HalxDocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalxDocs&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HalxDocs&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Get in touch
+
+- Email: halxdocs@gmail.com
+- Website: [halxdocs.com](https://halxdocs.com)
+- LinkedIn: [in/halx-docs-633272344](https://www.linkedin.com/in/halx-docs-633272344)
+- X: [@HalxDocs](https://x.com/HalxDocs)
