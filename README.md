@@ -1,4 +1,4 @@
-# Kamsy Ejindu
+# HalxDocs
 
 **Backend Engineer — Systems & Infrastructure** · Lagos, Nigeria
 
